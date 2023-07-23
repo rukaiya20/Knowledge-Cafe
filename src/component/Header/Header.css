@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.header h3{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 160%;
+    color: #111111;
+    margin: 0px;
+}
+
+.nav-container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.nav-container a{
+    padding: 8px 14px;
+    border-radius: 15px;
+}
+.nav-container a:hover{
+    background-color: rgb(83, 107, 108);
+    color: white;
+}
+.header img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background: url(newcomer-get-know-teammates-pleased-good-looking-businesswoman-transparent-glasses-blue-collar-shirt-smiling-broadly-assuring-good-quality-product-gray-wall);
+}

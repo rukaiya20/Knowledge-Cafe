@@ -1,0 +1,34 @@
+.cart-section{
+    position: sticky;
+    top: 0px;
+}
+
+.total-time{
+    height: 80px;
+    width: 100%;
+    background: rgba(96, 71, 236, 0.1);
+    border: 1px solid #6047EC;
+    border-radius: 8px;
+    margin-top:35px;
+}
+.total-time h4{
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    color: #6047EC;
+    margin: 0px;
+    margin-top: 20px;
+}
+
+.cart-body{
+    background: rgba(96, 71, 236, 0.1);
+    margin-top: 45px;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.cart-body p{
+    margin:0px;
+    font-weight: 700;
+    font-size: 24px;
+}

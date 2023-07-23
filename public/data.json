@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Tips for Programming Beginners",
+      "author_img": "https://media.istockphoto.com/id/1190582317/vector/portrait-of-an-old-man-with-beard-and-eyeglasses-avatar-happy-grandfather-social-networks.jpg?s=170x170&k=20&c=wnd8IGT-0hCCrQ1rU8GQU-gn6zxCNMCXSMlYeCxz31s=",
+      "authorName":"Mr. Raju",
+      "publishDate":"July 5 (17 Days ago)",
+      "time":"05"
+    },
+    {
+      "id": "2",
+      "cover_img": "https://images.unsplash.com/photo-1550439062-609e1531270e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "How to get your first job as a self-taught programmer",
+      "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa0mY04NeynM9jLwuxyuvaqyjfwHeBJkPsEwxUO-junn3ptTn8MyFPeTVpa5sppoAu758&usqp=CAU",
+      "authorName":"Mr. Siam",
+      "publishDate":"July 14 (9 Days ago)",
+      "time":"10"
+    },
+    {
+      "id": "3",
+      "cover_img": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Best Document Tracking Systems In 2023!",
+      "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIJzyn7J07QTGAnExmBF9NcuaOG4_ywxT_0aWTDY6cg&s",
+      "authorName":"Mina Mostofa",
+      "publishDate":"July 19 (4 Days ago)",
+      "time":"12"
+    },
+    {
+      "id": "4",
+      "cover_img": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "name": "Candidate Guides",
+      "author_img": "https://thumbs.dreamstime.com/b/happy-smiling-geek-hipster-beard-man-cool-avatar-geek-man-avatar-104871313.jpg",
+      "authorName":"Mustafiz Rahman",
+      "publishDate":"July 1 (22 Days ago)",
+      "time":"15"
+    }
+  ]

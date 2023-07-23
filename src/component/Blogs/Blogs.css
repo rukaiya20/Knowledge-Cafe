@@ -1,0 +1,26 @@
+.main-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.blogs-container{
+    width: 700px;
+    margin:0px  20px;
+}
+
+@media only screen  and (max-width:500px){
+    .header{
+        flex-direction: column-reverse;
+        gap: 10px;
+    }
+    .nav-container{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .main-container{
+        grid-template-columns: 1fr;
+    }
+    .blogs-container{
+        width: 100%;
+        margin: 0px;
+    }
+  }

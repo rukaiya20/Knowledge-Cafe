@@ -1,0 +1,22 @@
+.question-answer{
+    margin: 0px 50px;
+    padding: 15px;
+}
+.question-answer h1{
+    margin: 0px; 
+    text-align: center;
+    text-decoration: underline;
+}
+
+.question-answer p{
+    text-align: justify;
+    margin: 0px;
+    margin-left:20px ;
+}
+
+@media  only screen  and (max-width:500px){
+    .question-answer {
+        margin: 0px;
+        padding: 0px;
+    }
+}
